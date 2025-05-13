@@ -6,7 +6,7 @@ After retrieving the data, I merged it based on common attributes, such as movie
 I then cleaned the merged data by handling missing values, duplicates, and inconsistencies. 
 Finally, I exported the cleaned dataset to a desired format, such as CSV, for further analysis
 
-
+ 
 
 
 
